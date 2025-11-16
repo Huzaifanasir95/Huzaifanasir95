@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi 👋 I'm Huzaifa Nasir<br><br>**Full-Stack Engineer | AI/ML Engineer | DevOps Specialist**<br><br> My journey spans from implementing research papers in deep learning to architecting enterprise-grade ERP systems handling complex business workflows.<br><br>Currently focused on deepening my expertise in machine learning research, cloud-native architectures, and creating impactful software that solves real-world problems.
 
 

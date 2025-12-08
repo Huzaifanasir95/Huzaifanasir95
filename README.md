@@ -90,9 +90,9 @@
 
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions,terraform,nginx,linux,vercel,ansible,ubuntu,prometheus,grafana,bash,powershell,rabbitmq" height="40" alt="devops" />
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="40" alt="vault" />
-<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="40" alt="kali" />
 

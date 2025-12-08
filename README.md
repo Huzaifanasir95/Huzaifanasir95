@@ -20,6 +20,10 @@
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
           </a>
           <br/><br/>
+          <a href="mailto:nasirhuzaifa95@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          </a>
+          <br/><br/>
           <a href="https://huzaifa-nasir-portfolio.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
           </a>

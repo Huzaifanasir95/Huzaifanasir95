@@ -67,14 +67,11 @@
 <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg" height="40" alt="wandb" />
 
 ### Web Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,fastapi,html,css,tailwind,bootstrap,django,dotnet,prisma,webpack,vite,graphql" height="40" alt="web-dev" />
-<img src="https://ui.shadcn.com/apple-touch-icon.png" height="40" alt="shadcn" />
-<img src="https://skillicons.dev/icons?i=socketio" height="40" alt="socketio" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,fastapi,html,css,tailwind,bootstrap,django,dotnet,prisma,webpack,vite,graphql,socketio,apollo,esbuild" height="40" alt="web-dev" />
 <br/>
+<img src="https://ui.shadcn.com/apple-touch-icon.png" height="40" alt="shadcn" />
 <img src="https://trpc.io/img/logo.svg" height="40" alt="trpc" />
-<img src="https://skillicons.dev/icons?i=apollo" height="40" alt="apollo" />
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="gin" />
-<img src="https://skillicons.dev/icons?i=esbuild" height="40" alt="esbuild" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" height="40" alt="databases" />

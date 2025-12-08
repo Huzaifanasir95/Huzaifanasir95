@@ -69,9 +69,9 @@
 ### Web Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,fastapi,html,css,tailwind,bootstrap,django,dotnet,prisma,webpack,vite,graphql,socketio,apollo,esbuild" height="40" alt="web-dev" />
 <br/>
-<img src="https://ui.shadcn.com/apple-touch-icon.png" height="40" alt="shadcn" />
-<img src="https://trpc.io/img/logo.svg" height="40" alt="trpc" />
-<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="gin" />
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" alt="shadcn" />
+<img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" height="40" alt="trpc" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" height="40" alt="gin" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" height="40" alt="databases" />

@@ -56,6 +56,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle" />
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="plotly" />
+<img src="https://github.com/user-attachments/assets/huggingface-logo.svg" height="40" alt="huggingface" onerror="this.src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg'" />
+<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" height="40" alt="mlflow" />
+<img src="https://avatars.githubusercontent.com/u/26401354" height="40" alt="wandb" />
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb8920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/tensorflow/images/lockup.svg" height="40" alt="tensorboard" />
 
 ### Web Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,fastapi,html,css,tailwind,graphql" height="40" alt="web-dev" />

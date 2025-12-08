@@ -47,8 +47,7 @@
 <div align="center">
   
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,js,ts,py,php" height="40" alt="languages" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" height="40" alt="javafx" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,js,ts,py,php,matlab" height="40" alt="languages" />
 
 ### AI/ML & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="40" alt="ai-ml" />

@@ -67,7 +67,15 @@
 <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg" height="40" alt="wandb" />
 
 ### Web Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,fastapi,html,css,tailwind,graphql" height="40" alt="web-dev" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,fastapi,html,css,tailwind,bootstrap,graphql,django,dotnet,prisma,webpack,vite" height="40" alt="web-dev" />
+<br/>
+<img src="https://cdn.simpleicons.org/shadcnui/000000" height="40" alt="shadcn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
+<img src="https://seeklogo.com/images/T/trpc-logo-F4B1CC97AF-seeklogo.com.png" height="40" alt="trpc" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apollographql/apollographql-original.svg" height="40" alt="apollo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" height="40" alt="gin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/esbuild/esbuild-original.svg" height="40" alt="esbuild" />
+<img src="https://avatar.vercel.sh/turbopack" height="40" alt="turbopack" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" height="40" alt="databases" />

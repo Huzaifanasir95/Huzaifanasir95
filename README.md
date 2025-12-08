@@ -49,7 +49,7 @@
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,js,ts,py,php,matlab" height="40" alt="languages" />
 
-### AI/ML & Data Science
+### AI/ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="40" alt="ai-ml" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />

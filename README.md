@@ -7,7 +7,33 @@
 </h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="coding gif" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>Connect With Me</h3>
+        <p>
+          <a href="https://github.com/Huzaifanasir95" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+          <br/><br/>
+          <a href="https://www.linkedin.com/in/huzaifa-nasir-" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+          <br/><br/>
+          <a href="https://huzaifa-nasir-portfolio.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+          </a>
+          <br/><br/>
+          <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Huzaifanasir95%22" target="_blank">
+            <img src="https://img.shields.io/badge/Zenodo-0D47A1?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###

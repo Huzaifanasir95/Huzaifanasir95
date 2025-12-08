@@ -153,16 +153,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifanasir95&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifanasir95&layout=compact&theme=dracula&hide_border=false&langs_count=10" width="48%" alt="languages" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Huzaifanasir95&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophies" />
-</div>
-
-###

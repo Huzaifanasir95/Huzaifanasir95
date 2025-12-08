@@ -155,7 +155,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Huzaifanasir95&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="random quote" />
 </div>
 
 ###

@@ -70,7 +70,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,fastapi,html,css,tailwind,bootstrap,django,dotnet,prisma,webpack,vite,graphql" height="40" alt="web-dev" />
 <br/>
 <img src="https://ui.shadcn.com/apple-touch-icon.png" height="40" alt="shadcn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
+<img src="https://skillicons.dev/icons?i=socketio" height="40" alt="socketio" />
 <img src="https://trpc.io/img/logo.svg" height="40" alt="trpc" />
 <img src="https://skillicons.dev/icons?i=apollo" height="40" alt="apollo" />
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="gin" />

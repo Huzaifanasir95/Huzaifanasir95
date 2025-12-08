@@ -135,13 +135,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Huzaifanasir95&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifanasir95&theme=dracula&hide_border=false&area=true" alt="contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=Huzaifanasir95&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="600" alt="streak graph"  />
 </div>
 
 ###
@@ -149,7 +143,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huzaifanasir95/Huzaifanasir95/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huzaifanasir95/Huzaifanasir95/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Huzaifanasir95/Huzaifanasir95/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Huzaifanasir95/Huzaifanasir95/output/pacman-contribution-graph.svg" width="100%">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifanasir95&theme=dracula&hide_border=false&area=true" width="100%" alt="contribution graph" />
+</div>
 
 ###

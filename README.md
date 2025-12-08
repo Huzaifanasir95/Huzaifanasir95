@@ -68,14 +68,13 @@
 
 ### Web Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,fastapi,html,css,tailwind,bootstrap,django,dotnet,prisma,webpack,vite,graphql" height="40" alt="web-dev" />
-<br/>
 <img src="https://ui.shadcn.com/apple-touch-icon.png" height="40" alt="shadcn" />
 <img src="https://skillicons.dev/icons?i=socketio" height="40" alt="socketio" />
+<br/>
 <img src="https://trpc.io/img/logo.svg" height="40" alt="trpc" />
 <img src="https://skillicons.dev/icons?i=apollo" height="40" alt="apollo" />
 <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="gin" />
 <img src="https://skillicons.dev/icons?i=esbuild" height="40" alt="esbuild" />
-<img src="https://vercel.com/_next/image?url=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Fcontentful%2Fimage%2Fe5382hct74si%2F5bgJeH6YC1fKpJjlkYEhhk%2F3ee0c89fb407e926a0f1f47c6e7f3f8b%2Fturbopack-hero-logo-dark.svg&w=640&q=75" height="40" alt="turbopack" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" height="40" alt="databases" />

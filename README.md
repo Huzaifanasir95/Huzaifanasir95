@@ -43,6 +43,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifanasir95&theme=dracula&hide_border=false&area=true" alt="contribution graph" />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huzaifanasir95/Huzaifanasir95/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huzaifanasir95/Huzaifanasir95/output/pacman-contribution-graph.svg">

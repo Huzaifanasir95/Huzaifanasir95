@@ -68,9 +68,6 @@
 
 ### Web Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,django,html,css,tailwind,bootstrap,materialui,styledcomponents,vite,webpack,esbuild,graphql,socketio" height="40" alt="web-dev" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" height="40" alt="gin" />
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" alt="shadcn" />
-<img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" height="40" alt="trpc" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" height="40" alt="databases" />

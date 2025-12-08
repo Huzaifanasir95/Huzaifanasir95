@@ -84,7 +84,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" height="40" alt="databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite,mariadb,supabase" height="40" alt="databases" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
 
 ### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions,terraform,nginx,linux" height="40" alt="devops" />

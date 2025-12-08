@@ -66,13 +66,6 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="tensorboard" />
 <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-logo-yellow-dots-black-wb.svg" height="40" alt="wandb" />
 
-### Web Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flask,fastapi,html,css,tailwind,bootstrap,django,dotnet,prisma,webpack,vite,graphql,socketio,apollo,esbuild" height="40" alt="web-dev" />
-<br/>
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" alt="shadcn" />
-<img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" height="40" alt="trpc" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" height="40" alt="gin" />
-
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" height="40" alt="databases" />
 

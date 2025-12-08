@@ -28,7 +28,7 @@
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
           </a>
           <br/><br/>
-          <a href="https://zenodo.org/search?q=owners.username:Huzaifanasir95" target="_blank">
+          <a href="https://zenodo.org/search?q=creators.person_or_org.name:%22Nasir,%20H.%22" target="_blank">
             <img src="https://img.shields.io/badge/Zenodo-0D47A1?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo" />
           </a>
           <br/><br/>

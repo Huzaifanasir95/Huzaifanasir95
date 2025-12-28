@@ -12,8 +12,8 @@
       <td width="50%">
         <h3>Connect With Me</h3>
         <p>
-          <a href="https://github.com/Huzaifanasir95" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          <a href="https://huggingface.co/huzaifanasirrr" target="_blank">
+            <img src="https://img.shields.io/badge/HuggingFace-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
           </a>
           <br/><br/>
           <a href="https://www.linkedin.com/in/huzaifa-nasir-" target="_blank">

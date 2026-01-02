@@ -24,7 +24,7 @@
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
           </a>
           <br/><br/>
-          <a href="https://huzaifa-nasir-portfolio.vercel.app/" target="_blank">
+          <a href="https://huzaifa,nasir.site/" target="_blank">
             <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
           </a>
           <br/><br/>

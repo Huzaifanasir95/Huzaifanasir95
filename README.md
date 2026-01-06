@@ -135,7 +135,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifanasir95&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&v=2" width="600" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Huzaifanasir95&theme=radical" width="600" alt="streak graph"  />
 </div>
 
 ###

@@ -135,7 +135,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Huzaifanasir95&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="600" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifanasir95&theme=dracula&hide_border=false" width="600" alt="streak graph"  />
 </div>
 
 ###

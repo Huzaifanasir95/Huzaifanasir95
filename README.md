@@ -136,14 +136,12 @@
 
 <!-- GitHub stats (stacked) -->
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Huzaifanasir95&theme=blue-green&hide_border=false" alt="GitHub Stats" /></td>
-      <td><img src="https://nirzak-streak-stats.vercel.app/?user=Huzaifanasir95&theme=blue-green&hide_border=false" alt="GitHub Streak" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifanasir95&theme=blue-green&hide_border=false&layout=compact" alt="Top Languages" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifanasir95&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Huzaifanasir95&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+  <br/>
 </p>
+
 ###
 
 <picture>
